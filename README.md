@@ -1,2 +1,2 @@
-# rahulb0206.github.io
+# Data Viz
 Page
