@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.9.0"
 gem 'jekyll-archives'
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate-v2'
-gem 'mini_magick'
+gem "mini_magick"
 gem "kramdown-parser-gfm"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -38,4 +38,3 @@ gem "rexml", ">= 3.3.2"
 # updates 2025 -- newer jekyll versions
 gem "csv"
 gem "base64"
-
