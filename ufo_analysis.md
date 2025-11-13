@@ -3,6 +3,11 @@ layout: post
 title: UFO Sightings Analysis
 ---
 
+# UFO Sightings Analysis  
+**by Rahul Balasubramani**  
+**Date: November 12, 2025**
+
+---
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
@@ -43,7 +48,7 @@ This made the dataset a lot more manageable and kept the map readable and fast.
 
 <div id="vis2"></div>
 <script type="text/javascript">
-  var spec = "/assets/json/ufo_timeseries.json";
+  var spec = "/assets/json/df_ufo_timeseries.json";
   vegaEmbed('#vis2', spec).then(function(result) {
   }).catch(console.error);
 </script>
