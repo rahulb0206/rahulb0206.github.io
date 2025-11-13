@@ -3,10 +3,6 @@ layout: post
 title: UFO Sightings Analysis
 ---
 
-# UFO Sightings Analysis  
-**by Rahul Balasubramani**  
-**Date: November 12, 2025**
-
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
