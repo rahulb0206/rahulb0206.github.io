@@ -13,4 +13,4 @@ Glad you found your way to my little corner here! 😊
 
 ## Check out my Recent Projects
 
-- [UFO Sightings Analysis](ufo_analysis.html)
+- [UFO Sightings Analysis](ufo_analysis)
